@@ -10,6 +10,6 @@ else
     echo -e "h1{color: red;}" > style.css
     echo -e "var string = 'Hello World'\nalert(string)" > main.js
     exit 0
-fi
+ fi
 
    
